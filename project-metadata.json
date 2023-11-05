@@ -1,7 +1,7 @@
 {
   "title": "Fire Fighter",
   "img_path": "https://github.com/khalilacheche/FireFighter/raw/main/image_rapport/bomr_demo.gif",
-  "description": "A robotics project",
+  "description": "A robot that detects a destination, performs path planning and avoids obstacles along the way.",
   "tags": [
     "Robotics",
     "Computer Vision"
